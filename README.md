@@ -3,8 +3,7 @@
 ## 说明
 
 
-- 作者：Judas.n：<http://code.YouMeek.com>
-- 感谢捐赠：<http://www.youmeek.com/donate/>
+
 - 为了方便以后的一些问题的讲解特地准备一个最精简的 SpringMVC + Spring + Mybatis 框架整合，方便以后的一些问题的演示
 - 为了展示 IntelliJ IDEA 高度集成化的效果，降低 IntelliJ IDEA 入门时间
 
@@ -33,13 +32,6 @@
     - 百度云盘：<http://pan.baidu.com/s/1hr0x6sc>
     - 360 云盘（e319）：<https://yunpan.cn/cY4INmfJn8yvm>
 
-
-## 联系(Contact)
-
-- Email：`judas.n@qq.com`（常用） or `admin@youmeek.com`（备用）
-- Blog：<http://code.YouMeek.com>
-- IntelliJ IDEA QQ 交流群：入群请看：<https://github.com/judasn/IntelliJ-IDEA-Java-Conversation>
-- 欢迎捐赠 ^_^：<http://www.youmeek.com/donate>
 
 
 ## Gtihub 协同视频教程(Participate)
